@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="gframe">
+      <UniqueIdentifier>{EC6942CF-AD17-ED4E-B871-ABE08A7B0CF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gframe\lzma">
+      <UniqueIdentifier>{B3381D3D-E838-3547-9DCD-EFC9C882F7DF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\gframe\lzma\Alloc.h">
+      <Filter>gframe\lzma</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\lzma\LzFind.h">
+      <Filter>gframe\lzma</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\lzma\LzHash.h">
+      <Filter>gframe\lzma</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\lzma\LzmaDec.h">
+      <Filter>gframe\lzma</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\lzma\LzmaEnc.h">
+      <Filter>gframe\lzma</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\lzma\LzmaLib.h">
+      <Filter>gframe\lzma</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\lzma\Types.h">
+      <Filter>gframe\lzma</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\gframe\lzma\Alloc.c">
+      <Filter>gframe\lzma</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\lzma\LzFind.c">
+      <Filter>gframe\lzma</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\lzma\LzmaDec.c">
+      <Filter>gframe\lzma</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\lzma\LzmaEnc.c">
+      <Filter>gframe\lzma</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\lzma\LzmaLib.c">
+      <Filter>gframe\lzma</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

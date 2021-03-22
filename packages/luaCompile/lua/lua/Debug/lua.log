@@ -1,0 +1,41 @@
+﻿  lapi.c
+D:\ygospace\ygopro\packages\lua-5.3.6\src\lapi.c(398,49): warning C4244: “return”: 从“lua_Unsigned”转换到“size_t”，可能丢失数据
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  正在生成代码...
+  正在编译...
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  luac.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+  正在生成代码...
+lua.obj : warning LNK4006: _main 已在 luac.obj 中定义；已忽略第二个定义
+  lua.vcxproj -> D:\ygospace\ygopro\packages\luaCompile\lua\Debug\lua.lib

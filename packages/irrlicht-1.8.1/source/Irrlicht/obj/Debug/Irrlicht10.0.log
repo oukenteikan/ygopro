@@ -1,0 +1,538 @@
+﻿  CCgMaterialRenderer.cpp
+  CD3D9CgMaterialRenderer.cpp
+  CDefaultSceneNodeAnimatorFactory.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CDefaultSceneNodeFactory.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGeometryCreator.cpp
+  CMeshCache.cpp
+  CMeshManipulator.cpp
+  COpenGLCgMaterialRenderer.cpp
+  CSceneManager.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  C3DSMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSMFMeshFileLoader.cpp
+  CAnimatedMeshHalfLife.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(31,11): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(32,11): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(34,11): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(35,11): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(37,11): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(38,11): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(83,17): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(84,16): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(85,34): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(86,27): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(101,14): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshHalfLife.cpp(102,14): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+  CAnimatedMeshMD2.cpp
+  CAnimatedMeshMD3.cpp
+  CB3DMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CBSPMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CColladaFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CCSMLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CDMFLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CIrrMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  CLMTSMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CLWOMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CMD2MeshFileLoader.cpp
+  CMD3MeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CMS3DMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CMY3DMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COBJMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COCTLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COgreMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CPLYMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CQ3LevelMesh.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSkinnedMesh.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSTLMeshFileLoader.cpp
+  CXMeshFileLoader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CAnimatedMeshSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshSceneNode.cpp(111,33): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CAnimatedMeshSceneNode.cpp(116,31): warning C4244: “=”: 从“double”转换到“irr::f32”，可能丢失数据
+  CBillboardSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CBoneSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CCameraSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CCubeSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CDummyTransformationSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  CEmptySceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CLightSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CMeshSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COctreeSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CQuake3ShaderSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CShadowVolumeSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSkyBoxSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSkyDomeSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSphereSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CTerrainSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CTextSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CVolumeLightSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CWaterSurfaceSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CParticleAnimatedMeshSceneNodeEmitter.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CParticleAttractionAffector.cpp
+  CParticleBoxEmitter.cpp
+  CParticleCylinderEmitter.cpp
+  CParticleFadeOutAffector.cpp
+  CParticleGravityAffector.cpp
+  CParticleMeshEmitter.cpp
+  正在生成代码...
+  正在编译...
+  CParticlePointEmitter.cpp
+  CParticleRingEmitter.cpp
+  CParticleRotationAffector.cpp
+  CParticleScaleAffector.cpp
+  CParticleSphereEmitter.cpp
+  CParticleSystemSceneNode.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CMetaTriangleSelector.cpp
+  COctreeTriangleSelector.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneCollisionManager.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CTerrainTriangleSelector.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CTriangleBBSelector.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CTriangleSelector.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneLoaderIrr.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorCameraFPS.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorCameraMaya.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorCollisionResponse.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorDelete.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorFlyCircle.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorFlyStraight.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorFollowSpline.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  CSceneNodeAnimatorRotation.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSceneNodeAnimatorTexture.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CColladaMeshWriter.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CIrrMeshWriter.cpp
+  COBJMeshWriter.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CPLYMeshWriter.cpp
+  CSTLMeshWriter.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CVideoModeList.cpp
+  CSoftwareDriver.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSoftwareTexture.cpp
+  CTRFlat.cpp
+  CTRFlatWire.cpp
+  CTRGouraud.cpp
+  CTRGouraudWire.cpp
+  CTRTextureFlat.cpp
+  CTRTextureFlatWire.cpp
+  CTRTextureGouraud.cpp
+  CTRTextureGouraudAdd.cpp
+  CTRTextureGouraudNoZ.cpp
+  CTRTextureGouraudWire.cpp
+  正在生成代码...
+  正在编译...
+  CZBuffer.cpp
+  COpenGLDriver.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\COpenGLDriver.cpp(148,44): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+  COpenGLExtensionHandler.cpp
+  COpenGLNormalMapRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLParallaxMapRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLShaderMaterialRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLSLMaterialRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COpenGLTexture.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D8Driver.cpp
+  CD3D8NormalMapRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CD3D8NormalMapRenderer.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D8ParallaxMapRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CD3D8ParallaxMapRenderer.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D8ShaderMaterialRenderer.cpp
+  CD3D8Texture.cpp
+  CColorConverter.cpp
+  CFPSCounter.cpp
+  CImage.cpp
+  CNullDriver.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CImageWriterBMP.cpp
+  CImageWriterJPG.cpp
+  CImageWriterPCX.cpp
+  正在生成代码...
+  正在编译...
+  CImageWriterPNG.cpp
+  CImageWriterPPM.cpp
+  CImageWriterPSD.cpp
+  CImageWriterTGA.cpp
+  CImageLoaderBMP.cpp
+  CImageLoaderDDS.cpp
+  CImageLoaderJPG.cpp
+  CImageLoaderPCX.cpp
+  CImageLoaderPNG.cpp
+  CImageLoaderPPM.cpp
+  CImageLoaderPSD.cpp
+  CImageLoaderRGB.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CImageLoaderRGB.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CImageLoaderTGA.cpp
+  CImageLoaderWAL.cpp
+  CD3D9Driver.cpp
+  CD3D9HLSLMaterialRenderer.cpp
+  CD3D9NormalMapRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CD3D9NormalMapRenderer.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D9ParallaxMapRenderer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CD3D9ParallaxMapRenderer.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CD3D9ShaderMaterialRenderer.cpp
+  CD3D9Texture.cpp
+  正在生成代码...
+  正在编译...
+  CBurningShader_Raster_Reference.cpp
+  CDepthBuffer.cpp
+  CSoftwareDriver2.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CSoftwareTexture2.cpp
+  CTRGouraud2.cpp
+  CTRGouraudAlpha2.cpp
+  CTRGouraudAlphaNoZ2.cpp
+  CTRNormalMap.cpp
+  CTRStencilShadow.cpp
+  CTRTextureBlend.cpp
+  CTRTextureDetailMap2.cpp
+  CTRTextureGouraud2.cpp
+  CTRTextureGouraudAdd2.cpp
+  CTRTextureGouraudAddNoZ2.cpp
+  CTRTextureGouraudAlpha.cpp
+  CTRTextureGouraudAlphaNoZ.cpp
+  CTRTextureGouraudNoZ2.cpp
+  CTRTextureGouraudVertexAlpha2.cpp
+  CTRTextureLightMap2_Add.cpp
+  CTRTextureLightMap2_M1.cpp
+  正在生成代码...
+  正在编译...
+  CTRTextureLightMap2_M2.cpp
+  CTRTextureLightMap2_M4.cpp
+  CTRTextureLightMapGouraud2_M4.cpp
+  CTRTextureWire2.cpp
+  IBurningShader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CLogger.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  COSOperator.cpp
+  Irrlicht.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  os.cpp
+  aescrypt.cpp
+  aeskey.cpp
+  aestab.cpp
+  fileenc.cpp
+  hmac.cpp
+  prng.cpp
+  pwd2key.cpp
+  sha1.cpp
+  sha2.cpp
+  CIrrDeviceConsole.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CIrrDeviceFB.cpp
+  正在生成代码...
+  正在编译...
+  CIrrDeviceLinux.cpp
+  CIrrDeviceSDL.cpp
+  CIrrDeviceStub.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CIrrDeviceWin32.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CIrrDeviceWin32.cpp(1488,21): warning C4996: 'GetVersionExA': 被声明为已否决
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CIrrDeviceWin32.cpp(1492,9): warning C4996: 'GetVersionExA': 被声明为已否决
+  CIrrDeviceWinCE.cpp
+  CAttributes.cpp
+  CFileList.cpp
+  CFileSystem.cpp
+  CLimitReadFile.cpp
+  CMemoryFile.cpp
+  CMountPointReader.cpp
+  CNPKReader.cpp
+  CPakReader.cpp
+  CReadFile.cpp
+  CTarReader.cpp
+  CWADReader.cpp
+  CWriteFile.cpp
+  CXMLReader.cpp
+  CXMLWriter.cpp
+  CZipReader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(623,25): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(623,25): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(623,25): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(623,25): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(636,26): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(636,26): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(636,26): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(636,26): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(677,25): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(677,25): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(677,25): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(677,25): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(697,25): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(697,25): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(697,25): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(697,25): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(710,26): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(710,26): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(710,26): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(710,26): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(748,25): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(748,25): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(748,25): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(748,25): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(769,25): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(769,25): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(769,25): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(769,25): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(782,26): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(782,26): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(782,26): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(782,26): message : Visual C++ 使用非标准语义时会出现此警告
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(829,23): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const T *”
+          with
+          [
+              T=irr::c8
+          ]
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(829,23): message : 请考虑在格式字符串中使用“%hs”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(829,23): message : 请考虑在格式字符串中使用“%Ts”
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\source\Irrlicht\CZipReader.cpp(829,23): message : Visual C++ 使用非标准语义时会出现此警告
+  正在生成代码...
+  正在编译...
+  irrXML.cpp
+  CDefaultGUIElementFactory.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIButton.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUICheckbox.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIColorSelectDialog.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIComboBox.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIContextMenu.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIEditBox.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIEnvironment.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIFileOpenDialog.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIFont.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIImage.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIImageList.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIInOutFader.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIListBox.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIMenu.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIMeshViewer.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIMessageBox.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIModalScreen.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIScrollBar.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  CGUISkin.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUISpinBox.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUISpriteBank.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIStaticText.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUITabControl.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUITable.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIToolBar.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUITreeView.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGUIWindow.cpp
+D:\ygospace\ygopro\packages\irrlicht-1.8.1\include\Keycodes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  LzmaDec.c
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  jaricom.c
+  jcapimin.c
+  jcapistd.c
+  jcarith.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  正在生成代码...
+  正在编译...
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdarith.c
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  正在生成代码...
+  正在编译...
+  jdmaster.c
+  jdmerge.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  png.c
+  pngerror.c
+  pngget.c
+  正在生成代码...
+  正在编译...
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  blocksort.c
+  bzcompress.c
+  bzlib.c
+  crctable.c
+  decompress.c
+  huffman.c
+  randtable.c
+  正在生成代码...
+  Irrlicht10.0.vcxproj -> D:\ygospace\ygopro\packages\irrlicht-1.8.1\lib\Win32-VisualStudio\Irrlicht.lib

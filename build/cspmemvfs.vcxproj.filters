@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="gframe">
+      <UniqueIdentifier>{7A717B1C-FBAE-6444-A0F8-D199EDE67A9C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gframe\spmemvfs">
+      <UniqueIdentifier>{945D9F8A-43CC-4449-8251-E3F706D3FE6B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\gframe\spmemvfs\spmemvfs.h">
+      <Filter>gframe\spmemvfs</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\gframe\spmemvfs\spmemvfs.c">
+      <Filter>gframe\spmemvfs</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

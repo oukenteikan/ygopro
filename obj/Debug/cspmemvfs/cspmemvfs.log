@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  spmemvfs.c
+D:\ygospace\ygopro\gframe\spmemvfs\spmemvfs.c(156,53): warning C4244: “=”: 从“sqlite3_int64”转换到“int”，可能丢失数据
+D:\ygospace\ygopro\gframe\spmemvfs\spmemvfs.c(144,1): warning C4244: “初始化”: 从“sqlite3_int64”转换到“int”，可能丢失数据
+D:\ygospace\ygopro\gframe\spmemvfs\spmemvfs.c(167,63): warning C4244: “=”: 从“sqlite3_int64”转换到“int”，可能丢失数据
+  cspmemvfs.vcxproj -> D:\ygospace\ygopro\bin\debug\cspmemvfs.lib

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ocgcore">
+      <UniqueIdentifier>{1F45CD9A-4042-A440-8B1C-8A7912E07B3C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\ocgcore\card.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\common.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\duel.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\effect.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\effectset.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\field.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\group.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\interpreter.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\mtrandom.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\ocgapi.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ocgcore\scriptlib.h">
+      <Filter>ocgcore</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\ocgcore\card.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\duel.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\effect.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\field.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\group.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\interpreter.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\libcard.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\libdebug.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\libduel.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\libeffect.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\libgroup.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\mem.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\ocgapi.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\operations.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\playerop.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\processor.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ocgcore\scriptlib.cpp">
+      <Filter>ocgcore</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

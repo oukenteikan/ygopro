@@ -47,10 +47,10 @@ solution "ygo"
 
     include "ocgcore"
     include "gframe"
-    if os.is("windows") then
-    include "lua"
-    include "event"
-    include "freetype"
-    include "irrlicht"
-    include "sqlite3"
-    end
+    -- if os.is("windows") then
+    -- include "lua"
+    -- include "event"
+    -- include "freetype"
+    -- include "irrlicht"
+    -- include "sqlite3"
+    -- end

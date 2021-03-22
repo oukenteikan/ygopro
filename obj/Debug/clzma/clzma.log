@@ -1,0 +1,8 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  LzmaLib.c
+  LzmaEnc.c
+  LzmaDec.c
+  LzFind.c
+  Alloc.c
+  正在生成代码...
+  clzma.vcxproj -> D:\ygospace\ygopro\bin\debug\clzma.lib

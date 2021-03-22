@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="gframe">
+      <UniqueIdentifier>{F7F8DB9D-552F-A948-98FF-CBBA31F027AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\gframe\bufferio.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\CGUIButton.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\CGUIImageButton.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\CGUITTFont.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\client_card.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\client_field.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\config.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\data_manager.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\deck_con.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\deck_manager.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\duelclient.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\event_handler.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\game.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\image_manager.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\irrUString.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\materials.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\menu_handler.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\myfilesystem.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\mysignal.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\netserver.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\network.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\replay.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\replay_mode.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\single_duel.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\single_mode.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\sound_manager.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gframe\tag_duel.h">
+      <Filter>gframe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\gframe\CGUIImageButton.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\CGUITTFont.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\client_card.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\client_field.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\data_manager.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\deck_con.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\deck_manager.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\drawing.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\duelclient.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\event_handler.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\game.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\gframe.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\image_manager.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\materials.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\menu_handler.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\netserver.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\replay.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\replay_mode.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\single_duel.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\single_mode.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\sound_manager.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gframe\tag_duel.cpp">
+      <Filter>gframe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\gframe\ygopro.rc">
+      <Filter>gframe</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

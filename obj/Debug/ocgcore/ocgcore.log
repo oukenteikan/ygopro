@@ -1,0 +1,23 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  scriptlib.cpp
+  processor.cpp
+D:\ygospace\ygopro\ocgcore\processor.cpp(776,51): warning C4244: “=”: 从“ptr”转换到“uint8”，可能丢失数据
+D:\ygospace\ygopro\ocgcore\processor.cpp(832,51): warning C4244: “=”: 从“ptr”转换到“uint8”，可能丢失数据
+D:\ygospace\ygopro\ocgcore\processor.cpp(885,51): warning C4244: “=”: 从“ptr”转换到“uint8”，可能丢失数据
+  playerop.cpp
+  operations.cpp
+  ocgapi.cpp
+  mem.cpp
+  libgroup.cpp
+  libeffect.cpp
+  libduel.cpp
+  libdebug.cpp
+  libcard.cpp
+  interpreter.cpp
+  group.cpp
+  field.cpp
+  effect.cpp
+  duel.cpp
+  card.cpp
+  正在生成代码...
+  ocgcore.vcxproj -> D:\ygospace\ygopro\bin\debug\ocgcore.lib

@@ -1,0 +1,148 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  tag_duel.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\netserver.h(60,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\netserver.h(63,1): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(88,38): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(111,38): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(123,39): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(168,38): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(291,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(292,50): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(293,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(294,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(295,50): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\tag_duel.cpp(296,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+  sound_manager.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  single_mode.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_mode.cpp(114,36): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+  single_duel.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\netserver.h(60,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\netserver.h(63,1): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(97,38): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(131,38): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(143,39): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(209,37): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(334,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(335,50): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(336,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(337,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(338,50): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\single_duel.cpp(339,49): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+  replay_mode.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+  replay.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  netserver.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\netserver.h(60,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\netserver.h(63,1): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+  menu_handler.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\netserver.h(60,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\netserver.h(63,1): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+  materials.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  image_manager.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  gframe.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  game.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\netserver.h(60,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\netserver.h(63,1): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\ygospace\ygopro\gframe\game.cpp(721,22): warning C4018: “>”: 有符号/无符号不匹配
+  event_handler.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\event_handler.cpp(329,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\event_handler.cpp(1362,30): warning C4018: “>=”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\event_handler.cpp(1366,37): warning C4018: “>=”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\event_handler.cpp(1440,67): warning C4267: “参数”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\ygospace\ygopro\gframe\event_handler.cpp(2406,36): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\ygospace\ygopro\gframe\event_handler.cpp(2409,61): warning C4267: “参数”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  duelclient.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2589,52): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2598,52): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2619,41): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2628,41): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2645,53): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2649,42): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2655,53): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(2659,42): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(3695,59): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(3710,59): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(3725,60): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\duelclient.cpp(3786,53): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+  drawing.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+  deck_manager.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  deck_con.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\deck_con.cpp(359,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(376,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(395,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(425,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(476,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(510,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(574,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(612,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\ygospace\ygopro\gframe\deck_con.cpp(1504,91): warning C4018: “>=”: 有符号/无符号不匹配
+  data_manager.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  client_field.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\duelclient.h(69,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
+D:\ygospace\ygopro\gframe\client_field.cpp(173,48): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\client_field.cpp(188,47): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\client_field.cpp(201,48): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\client_field.cpp(206,49): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+D:\ygospace\ygopro\gframe\client_field.cpp(212,49): warning C4267: “=”: 从“size_t”转换到“irr::u8”，可能丢失数据
+  client_card.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  正在生成代码...
+  正在编译...
+  CGUITTFont.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\gframe\CGUITTFont.cpp(157,13): warning C4244: “初始化”: 从“double”转换到“irr::u32”，可能丢失数据
+D:\ygospace\ygopro\gframe\CGUITTFont.cpp(158,18): warning C4244: “初始化”: 从“double”转换到“irr::u32”，可能丢失数据
+  CGUIImageButton.cpp
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0xff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\ygospace\ygopro\irrlicht\include\Keycodes.h(1,1): warning C4828: 文件包含在偏移 0x1000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  正在生成代码...
+    正在创建库 ..\bin\debug\ygopro.lib 和对象 ..\bin\debug\ygopro.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  ygopro.vcxproj -> D:\ygospace\ygopro\bin\debug\ygopro.exe
